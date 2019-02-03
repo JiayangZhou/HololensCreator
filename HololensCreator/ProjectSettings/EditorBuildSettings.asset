@@ -8,10 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/EatingCubes.unity
     guid: 6f0f0b6beb5ef81499b2a950b4e84dd5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Model.unity
     guid: cbe26e95b3166b24c861b14a66f9dbea
+  - enabled: 1
+    path: Assets/Scenes/HololensSettingup.unity
+    guid: 0aaacbf6ab43b5a428fc56026116a5f0
   m_configObjects: {}
